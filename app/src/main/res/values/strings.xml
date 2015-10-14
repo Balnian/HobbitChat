@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HobbitChat</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="ChoixRegions">Choisir une Region :</string>
+
+    <string-array name="regions">
+        <item>La Comté</item>
+        <item>Mordor</item>
+        <item>Isengard </item>
+    </string-array>
+
+    <string name="ChoisirPort">Choisir le port :</string>
+
+    <string name="ChoisirVotreNom">Choisir votre nom :</string>
+
+    <string name="Demarrer">Démarrer</string>
+    <string name="title_activity_tchat">Tchat</string>
+</resources>
